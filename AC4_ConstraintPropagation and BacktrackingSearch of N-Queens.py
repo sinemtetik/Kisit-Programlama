@@ -1,11 +1,6 @@
 '''
 
-KISIT PROGRAMLAMA
-Ödev 3: Algoritmalar
-Sinem Tetik 502341005
-
-
-Bu kodda,N-Queens problemi AC-4	algoritması ile	çözülmektedir. 
+N-Queens problemi AC-4	algoritması ile	çözülmektedir. 
 AC-4 algoritmasındaki temel amaç, tüm kısıtlar sağlanana kadar değişkenlerin domainlerindeki değerleri uygun şekilde kaldırmaktır.
 N-Queens problemi için, bu algoritmanın	amacı, kısıtları yerinegetirerek herhangi iki kraliçenin birbirine saldırmamasını sağlamaktır.
 arc_consistency fonksiyonu, değişkenlerin üzerinde kısıtları uygular. 
