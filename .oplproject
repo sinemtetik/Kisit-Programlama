@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config default="true" name="matematiksel_model" category="opl">
+            			
+            <ref name="matematiksel_model.mod" type="model">
+			</ref>
+            			
+            <ref name="2_2_3.dat" type="data">
+			</ref>
+            		
+        </config>
+        	
+    </configs>
+    	
+
+</project>

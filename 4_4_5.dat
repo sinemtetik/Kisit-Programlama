@@ -1,0 +1,9 @@
+/*********************************************
+ * OPL 22.1.1.0 Data
+ * Author: sinem
+ * Creation Date: 29 May 2024 at 22:28:51
+ *********************************************/
+grup_sayisi = 4;
+gruptaki_kisi_sayisi = 5;
+hafta_sayisi = 5;
+ 
